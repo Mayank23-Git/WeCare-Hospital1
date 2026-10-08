@@ -1,0 +1,8 @@
+{
+  "name": "WeCare Hospital",
+  "description": "Full-stack hospital management and appointment booking platform with an AI-powered Doctor Recommendation Assistant, department directories, and real-time appointment tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
